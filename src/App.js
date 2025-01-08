@@ -8,7 +8,7 @@ function App(props) {
   console.log(props.flg)
   if(flg) {
   // return (<App2/>)  
-    //return (<App2 name='Mike' age='70'/>)
+    //return (<App2 name='kalyan' age='70'/>)
     //return (<App3 name="manoj"/>)
     return (<Har/>)
   } else {
