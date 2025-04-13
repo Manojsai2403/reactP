@@ -1,7 +1,7 @@
 import "./App.css";
 import App1 from "./App1.js";
 import App2 from "./App2.js";
-import App12 from "./App12.js";
+import App14 from "./App14.js";
 import Login from "./Login.js";
 function App(props) {
   const flg=props.flg
@@ -10,7 +10,7 @@ function App(props) {
   // return (<App2/>)  
     //return (<App2 name='kalyan' age='70'/>)
     //return (<App3 name="manoj"/>)
-    return (<App12/>)
+    return (<App14/>)
   } else {
   return (<App1/>)
   }
